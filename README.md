@@ -31,10 +31,11 @@ I build responsive, user-focused web applications with clean code and modern tec
 
 ---
 
-### AI4JUSTICE
+### AIforJUSTICE
 **A Platform for Legal Practitioners to carry out legal activities seamlessly
 -**Role:** Sole Frontend Developer
-**Highlights:** Built complete UI from scratch, consumed the APIs
+-**Stack:** Vite, React, TypeScript, Material UI
+-**Highlights:** Built complete UI from scratch, consumed the APIs
 [Github](https://https://github.com/Zummit-Africa-Inc/AIforJustice/tree/main/frontend)
 
 ## 📊 GitHub Stats
@@ -49,6 +50,7 @@ I build responsive, user-focused web applications with clean code and modern tec
 
 - GitHub: [github.com/Echika](https://github.com/Echika)
 - Email: echikaraphael@gmail.com
+- Linkedin: https://www.linkedin.com/in/echika-raphael-774668290/
 
 ---
 
