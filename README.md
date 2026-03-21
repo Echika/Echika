@@ -32,11 +32,11 @@ I build responsive, user-focused web applications with clean code and modern tec
 ---
 
 ### AIforJUSTICE
-**A Platform for Legal Practitioners to carry out legal activities seamlessly
+**A Platform for Legal Practitioners to carry out legal activities seamlessly**
 -**Role:** Sole Frontend Developer
 -**Stack:** Vite, React, TypeScript, Material UI
 -**Highlights:** Built complete UI from scratch, consumed the APIs
-[Github](https://https://github.com/Zummit-Africa-Inc/AIforJustice/tree/main/frontend)
+- 🔗 [Github](https://https://github.com/Zummit-Africa-Inc/AIforJustice/tree/main/frontend)
 
 ## 📊 GitHub Stats
 
