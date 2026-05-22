@@ -40,9 +40,10 @@ I build responsive, user-focused web applications with clean code and modern tec
 ---
 
 
-### CineVault — Full Stack Movie Discovery App
+### CineVault 
+**Full Stack Movie Discovery App**
 **Stack:** React, TypeScript, Supabase, TMDB API, Tailwind CSS
-Real JWT authentication, PostgreSQL database, debounced search, protected routes.
+  Real JWT authentication, PostgreSQL database, debounced search, protected routes.
 🔗 [Live Demo](https://cinevault-nine-mu.vercel.app/)
 
 ## 📊 GitHub Stats
