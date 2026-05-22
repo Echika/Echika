@@ -33,10 +33,15 @@ I build responsive, user-focused web applications with clean code and modern tec
 
 ### AIforJUSTICE
 **A Platform for Legal Practitioners to carry out legal activities seamlessly**
--**Role:** Sole Frontend Developer
--**Stack:** Vite, React, TypeScript, Material UI
--**Highlights:** Built complete UI from scratch, consumed the APIs
-- 🔗 [Github](https://https://github.com/Zummit-Africa-Inc/AIforJustice/tree/main/frontend)
+**Role:** Sole Frontend Developer
+**Stack:** Vite, React, TypeScript, Material UI
+**Highlights:** Built complete UI from scratch, consumed the APIs
+🔗 [Github](https://https://github.com/Zummit-Africa-Inc/AIforJustice/tree/main/frontend)
+
+### CineVault — Full Stack Movie Discovery App
+**Stack:** React, TypeScript, Supabase, TMDB API, Tailwind CSS
+Real JWT authentication, PostgreSQL database, debounced search, protected routes.
+🔗 [Live Demo](https://cinevault-nine-mu.vercel.app/)
 
 ## 📊 GitHub Stats
 
