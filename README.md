@@ -1,65 +1,64 @@
 # 👋 Hi, I'm Echika Raphael
 
-### Self-Taught Frontend Developer | 4 Years Experience | Problem Solver
+### Frontend Developer | React · TypeScript · Next.js | Open to Remote Roles
 
-I build responsive, user-focused web applications with clean code and modern technologies. Currently sharpening my skills in React, Next.js, and TypeScript while exploring Go for backend development.
+I build responsive, production-ready web applications with clean, maintainable code. I have served as sole Frontend Developer on two live platforms — a legal case management system and a Nigerian task marketplace — delivering complete UIs from scratch and integrating REST APIs independently.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**
-- React | Next.js | TypeScript
-- JavaScript (ES6+) | HTML5 | CSS3
-- Tailwind CSS | Material UI
+- React · Next.js · TypeScript · JavaScript ES6+
+- HTML5 · CSS3 · Tailwind CSS · Material UI
 
-**Backend & Tools**
-- Go (Golang)
-- Git & GitHub | Vercel | Netlify | Create-react-app
+**Tools & Platforms**
+- Git · GitHub · Vercel · Vite · Supabase · REST APIs
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### Quicktasker
-**Task Marketplace Platform**
-
-- **Role:** Sole Frontend Developer (85% of total codebase)
-- **Stack:** Next.js 15, TypeScript, Tailwind CSS
-- **Highlights:** Built complete UI from scratch, integrated REST APIs, deployed independently
-- 🔗 [Live Demo](https://quicktasker-frontend.vercel.app) | [GitHub](https://github.com/Echika/quicktasker-frontend)
-
----
-
-### AIforJUSTICE
-**A Platform for Legal Practitioners to carry out legal activities seamlessly**
+### AI4Justice — Legal Case Management Platform
 **Role:** Sole Frontend Developer
-**Stack:** Vite, React, TypeScript, Material UI
-**Highlights:** Built complete UI from scratch, consumed the APIs
-🔗 [Github](https://https://github.com/Zummit-Africa-Inc/AIforJustice/tree/main/frontend)
+**Stack:** React · TypeScript · Vite · Material UI
+**Highlights:** Built complete frontend from scratch · Integrated all REST APIs for case creation, document uploads and court recording workflows · Collaborated with backend engineers via Git
+
+🔗 [GitHub](https://github.com/Zummit-Africa-Inc/AIforJustice/tree/main/frontend)
+
 ---
 
+### Plentytask — Nigerian Task Marketplace
+**Role:** Sole Frontend Developer
+**Stack:** Next.js 15 · TypeScript · Tailwind CSS
+**Highlights:** Took product from zero to live in 3 months · Built complete UI independently · Deployed on Vercel
 
-### CineVault 
-**Full Stack Movie Discovery App**
-**Stack:** React, TypeScript, Supabase, TMDB API, Tailwind CSS
-  Real JWT authentication, PostgreSQL database, debounced search, protected routes.
-🔗 [Live Demo](https://cinevault-nine-mu.vercel.app/)
+🔗 [Live Demo](https://quicktasker-frontend.vercel.app) | [GitHub](https://github.com/Echika/quicktasker-frontend)
+
+---
+
+### CineVault — Full Stack Movie Discovery App
+**Stack:** React · TypeScript · Supabase · TMDB API · Tailwind CSS
+**Highlights:** Real JWT authentication · PostgreSQL database · Debounced search · Protected routes · Personal watchlist
+
+🔗 [Live Demo](https://cinevault-nine-mu.vercel.app) | [GitHub](https://github.com/Echika/cinevault)
+
+---
 
 ## 📊 GitHub Stats
 
 ![Echika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echika&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Echika&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 📫 Let's Connect
 
-- GitHub: [github.com/Echika](https://github.com/Echika)
-- Email: echikaraphael@gmail.com
-- Linkedin: https://www.linkedin.com/in/echika-raphael-774668290/
+- 📧 Email: echikaraphael@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/echika-raphael](https://www.linkedin.com/in/echika-raphael-774668290/)
+- 🌐 Portfolio: [portfolio-delta-nine-50.vercel.app](https://portfolio-delta-nine-50.vercel.app)
+- 🐙 GitHub: [github.com/Echika](https://github.com/Echika)
 
 ---
 
-*“Building things that matter, one line of code at a time.”* 🚀
+*"Building things that matter, one line of code at a time."* 🚀
